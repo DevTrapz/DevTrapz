@@ -1,24 +1,23 @@
-#👋 Howdy, welcome to my github profile!
-<h4>
-  💫 My name is Andrew Apodaca and I am a senior Software Engineering student committed to the 
-  lifelong journey of learning new technologies and a passion for innovating solutions. 
-</h4>
-<br><br>
+# 👋 Howdy, welcome to my github profile!
+
+💫 My name is Andrew Apodaca and I am a senior Software Engineering student committed to the 
+lifelong journey of learning new technologies and a passion for innovating solutions. 
+<br>
 
 🔭 I’m currently working on a personal media library app that organizes your photos in an experience similar to social media. It aims to make viewing your own images just as engaging. Scroll through your photos like social media and rediscover moments the way you already love. Facial recognition consolidates faces in your photos, making it easy to find other photos you might have of them!
-<br><br>
+<br>
   
 🤝  I’m looking for help on how to set up CI/CD pipelines and kubernetes/KIND deployments. 
-<br><br>
+<br>
   
 🌱 I’m currently learning Ruby on Rails and excited to develop using MVC architecture! Ruby on Rails is a web development framework using the Ruby language. It simplifies development by making assumptions to reduce time configuring details. Ruby's opinionated framework makes programming predictable. Its guiding principles encourage developers to use; convention over configuration, Don’t repeat yourself (DRY), and REST.
-<br><br>
+<br>
   
 👯 I’m am currently collaborating on a Ruby on Rails project with Postgres. 
-<br><br>
+<br>
   
 💬 Ask me about what's in my home lab!
-<br><br>
+<br>
   
 ⚡ Fun fact - I am a big time DIYer. I cut my own hair,dye my own pants (because I love them but just fade after a while) and If something is broke, the last thing on my mind is for someone else to fix it. I repair and install everything myself; my car, electronics, home automation, air conditioner.
 <br>
