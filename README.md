@@ -1,6 +1,6 @@
-# 👋 Howdy, welcome to my github profile!
+# 👋 Hey there, my name is Andrew Apodaca
 
-💫 My name is Andrew Apodaca and I am a senior Software Engineering student committed to the 
+💫 I am a senior Software Engineering student committed to the 
 lifelong journey of learning new technologies and a passion for innovating solutions. 
 <br>
 
