@@ -19,7 +19,7 @@ lifelong journey of learning new technologies and a passion for innovating solut
 💬 Ask me about what's in my home lab!
 <br>
   
-⚡ Fun fact - I am a big time DIYer. I cut my own hair,dye my own pants (because I love them but just fade after a while) and If something is broke, the last thing on my mind is for someone else to fix it. I repair and install everything myself; my car, electronics, home automation, air conditioner.
+⚡ Fun fact - I am a big time DIYer. I cut my own hair and dye my own pants (because I love them but they just fade after a while). I repair and install everything myself; my car, electronics, home automation, air conditioner. If something is broken the last thing on my mind is for someone else to fix it. 
 <br>
 
 ## 🌐 Socials:
