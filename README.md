@@ -1,25 +1,6 @@
 # 👋 Hey there, my name is Andrew Apodaca
 
-💫 I am a senior Software Engineering student committed to the 
-lifelong journey of learning new technologies and a passion for innovating solutions. 
-<br>
-
-🔭 I’m currently working on a personal media library app that organizes your photos in an experience similar to social media. It aims to make viewing your own images just as engaging. Scroll through your photos like social media and rediscover moments the way you already love. Facial recognition consolidates faces in your photos, making it easy to find other photos you might have of them!
-<br>
-  
-🤝  I’m looking for help on how to set up CI/CD pipelines and kubernetes/KIND deployments. 
-<br>
-  
-🌱 I’m currently learning Ruby on Rails and excited to develop using MVC architecture! Ruby on Rails is a web development framework using the Ruby language. It simplifies development by making assumptions to reduce time configuring details. Ruby's opinionated framework makes programming predictable. Its guiding principles encourage developers to use; convention over configuration, Don’t repeat yourself (DRY), and REST.
-<br>
-  
-👯 I’m am currently collaborating on a Ruby on Rails project with Postgres. 
-<br>
-  
-💬 Ask me about what's in my home lab!
-<br>
-  
-⚡ Fun fact - I am a big time DIYer. I cut my own hair and dye my own pants (because I love them but they just fade after a while). I repair and install everything myself; my car, electronics, home automation, air conditioner. If something is broken the last thing on my mind is for someone else to fix it. 
+💫 I am a Software Engineer committed to the lifelong journey of learning new technologies with a passion for innovating solutions. 
 <br>
 
 ## 🌐 Socials:
