@@ -1,14 +1,14 @@
 # 👋 Hey there, my name is Andrew Apodaca
 
 💫 I am a Solutions Engineer & Web Developer with 2.5 years of experience, working with a proven track record of providing solutions to businesses. 
-<br>
-I’ve helped over 8+ businesses close more deals, streamline CRM operations, develop online portals, and integrate their data systems.
-<br>
-My expertise lies in extending business tools, overcoming system limitations, and helping businesses buy back time with innovative solutions. 
-<br>
-I am a passionate problem-solver; I love to debug, troubleshoot, reverse engineer, and solve complex problems. 
-<br>
-I am also a recent graduate with a Bachelor of Science in Software Engineering.
+<br><br>
+🤝 I’ve helped over 8+ businesses close more deals, streamline CRM operations, develop online portals, and integrate their data systems.
+<br><br>
+🔬 My expertise lies in extending business tools, overcoming system limitations, and helping businesses buy back time with innovative solutions. 
+<br><br>
+⚙️ I am a passionate problem-solver; I love to debug, troubleshoot, reverse engineer, and solve complex problems. 
+<br><br>
+🎓 I am also a recent graduate with a Bachelor of Science in Software Engineering.
 
 
 ## 🌐 Socials:
