@@ -8,7 +8,7 @@
 <br><br>
 ⚙️ I am a passionate problem-solver; I love to debug, troubleshoot, reverse engineer, and solve complex problems. 
 <br><br>
-🎓 I am also a recent graduate with a Bachelor of Science in Software Engineering.
+🎓 I also a gradute with a B.S. Software Engineering from Western Governors University.
 
 
 ## 🌐 Socials:
