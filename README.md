@@ -1,14 +1,41 @@
-# 👋 Hey there, my name is Andrew Apodaca
+# Hi, I'm Andrew Apodaca 👋
 
-💫 I am a Solutions Engineer & Web Developer with 2.5 years of experience, working with a proven track record of providing solutions to businesses. 
-<br><br>
-🤝 I’ve helped over 8+ businesses close more deals, streamline CRM operations, develop online portals, and integrate their data systems.
-<br><br>
-🔬 My expertise lies in extending business tools, overcoming system limitations, and helping businesses buy back time with innovative solutions. 
-<br><br>
-⚙️ I am a passionate problem-solver; I love to debug, troubleshoot, reverse engineer, and solve complex problems. 
-<br><br>
-🎓 I'm also a gradute with a B.S. Software Engineering from Western Governors University.
+## 🚀 Solutions Engineer | Full-Stack Web Developer
+
+I'm a results-driven **Solutions Engineer & Web Developer** with **2.5 years of experience** dedicated to transforming fragmented business operations into integrated, efficient systems.
+
+My approach is simple: I build innovative, high-impact solutions that directly translate into measurable business value.
+
+---
+
+### 💡 My Value Proposition & Proven Track Record
+
+| Emoji | Area | Description |
+| :---: | :--- | :--- |
+| 🤝 | **Business Impact** | Proven track record of helping over **8+ businesses** close more deals, streamline CRM operations, develop scalable online portals, and integrate disparate data systems. |
+| 🔬 | **Core Expertise** | Specializing in extending the functionality of business tools and overcoming complex system limitations with custom, innovative solutions. My primary focus is on helping businesses **buy back critical time** and enhance operational efficiency. |
+| ⚙️ | **Problem-Solving** | A passionate problem-solver who excels at debugging, troubleshooting, and reverse engineering complex systems to restore functionality and ensure high availability. |
+
+---
+
+### 💻 Technical Expertise
+
+I leverage a **Full-Stack** skillset to architect and implement robust solutions, specializing in the following technologies:
+
+| Category | Key Technologies & Languages |
+| :---: | :--- |
+| **Frontend** | React, JavaScript (ES6+), HTML5, CSS3, TypeScript |
+| **Backend / OOP** | **Java**, Node.js, Express.js, Python, Spring Boot, C++ |
+| **APIs & Data** | REST APIs, GraphQL, WebSockets, SQL, RSS/Webhook APIs |
+| **Integrations** | monday dev, monday CRM, Ontraport CRM, Make, Zapier, Jira |
+| **DevOps & Cloud** | Docker, Git, Linux, AWS, Google Cloud, CI/CD, GitHub Actions |
+
+---
+
+### 🎓 Education
+
+**Western Governors University**
+*B.S. Software Engineering* 
 
 
 ## 🌐 Socials:
