@@ -10,11 +10,11 @@ My approach is simple: I build innovative, high-impact solutions that directly t
 
 ### 💡 My Value Proposition & Proven Track Record
 
-| Emoji | Area | Description |
-| :---: | :--- | :--- |
-| 🤝 | **Business Impact** | Proven track record of helping over **8+ businesses** close more deals, streamline CRM operations, develop scalable online portals, and integrate disparate data systems. |
-| 🔬 | **Core Expertise** | Specializing in extending the functionality of business tools and overcoming complex system limitations with custom, innovative solutions. My primary focus is on helping businesses **buy back critical time** and enhance operational efficiency. |
-| ⚙️ | **Problem-Solving** | A passionate problem-solver who excels at debugging, troubleshooting, and reverse engineering complex systems to restore functionality and ensure high availability. |
+| Area | Description |
+| :--- | :--- |
+| **Business Impact** | Proven track record of helping over **8+ businesses** close more deals, streamline CRM operations, develop scalable online portals, and integrate disparate data systems. |
+| **Core Expertise** | Specializing in extending the functionality of business tools and overcoming complex system limitations with custom, innovative solutions. My primary focus is on helping businesses **buy back critical time** and enhance operational efficiency. |
+| **Problem-Solving** | A passionate problem-solver who excels at debugging, troubleshooting, and reverse engineering complex systems to restore functionality and ensure high availability. |
 
 ---
 
